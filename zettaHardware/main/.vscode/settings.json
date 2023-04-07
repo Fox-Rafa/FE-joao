@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.tsx": "typescriptreact",
+    "manage_preferences.h": "c",
+    "defs.c": "cpp",
+    "defs.h": "c"
+  }
+}

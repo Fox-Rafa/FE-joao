@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "210056437796",
+    "project_id": "rooqbiomed",
+    "storage_bucket": "rooqbiomed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210056437796:android:ed0d60a1db593c63f478b1",
+        "android_client_info": {
+          "package_name": "com.rooq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210056437796-11g823elv65qd6sff7dt2ospu4a3m64n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw9M5ZJrOe9EkoFys1lDbn-XdKTmi3N1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210056437796-11g823elv65qd6sff7dt2ospu4a3m64n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210056437796-pq13jhilhsfb51bbaguf0o0ojbm7g6ho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rooq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

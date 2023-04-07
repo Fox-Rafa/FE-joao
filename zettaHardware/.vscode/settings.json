@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.tsx": "typescriptreact",
+    "stdio.h": "c",
+    "array": "c",
+    "deque": "c",
+    "string": "c",
+    "unordered_map": "c",
+    "unordered_set": "c",
+    "vector": "c",
+    "string_view": "c",
+    "initializer_list": "c"
+  }
+}
